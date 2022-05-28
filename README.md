@@ -24,6 +24,33 @@ we hope this article sheds light on the
 design of reproducibility criterion and opens
 up a space to explore what should be taught
 in undergraduate statistics education.
+
+La reproductibilité des résultats scientifiques
+est au coeur de la recherche scientifique.
+Les scientifiques ont proposé des recommandations
+et suggéré des critères pour une
+meilleure reproductibilité scientifique, mais
+la reproduction de la recherche scientifique
+réelle peut encore être difficile même si
+l’article de recherche répond aux attentes.
+Dans ce projet, nous reproduisons l’article
+de recherche du professeur Benjamin T. Skinner.
+Nous démontrons les défis de reproduire
+un article de recherche en éducation, même
+lorsque les codes et les données sont partagés
+ouvertement et que la qualité des matériaux
+produits pour la reproductibilité est particulièrement
+élevée. De plus, nous avons étudié
+les présomptions implicites du niveau de connaissance
+des chercheurs et discuté comment
+de telles présomptions peuvent ajouter des
+difficultés à la reproduction de la recherche
+scientifique. Enfin, nous espérons que cet
+article éclairera la conception du critère de
+reproductibilité et ouvrira un espace pour
+explorer ce qui devrait être enseigné dans
+l’enseignement statistique de premier cycle.
+
 ## The slides is the .html file
 
 ## The .rmd is the source file and knitr will create the .html file.
